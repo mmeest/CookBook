@@ -16,19 +16,19 @@
 
 ### Main page
 
-<p align="center"><img src="CookBook/mainlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/mainlist.png" width="300px"></p>
 
 <hr>
 
 ### Details view not logged in
 
-<p align="center"><img src="CookBook/details.png" width="300px"></p>
+<p align="center"><img src="/CookBook/details.png" width="300px"></p>
 
 <hr>
 
 ### Login page
 
-<p align="center"><img src="CookBook/login.png" width="300px"></p>
+<p align="center"><img src="/CookBook/login.png" width="300px"></p>
 
 <hr>
 
