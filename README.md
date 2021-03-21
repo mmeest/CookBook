@@ -16,43 +16,43 @@
 
 ### Main page
 
-<p align="center"><img src="/CookBook/CookBook/mainlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/mainlist.png" width="300px"></p>
 
 <hr>
 
 ### Details view not logged in
 
-<p align="center"><img src="/CookBook/details.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/details.png" width="300px"></p>
 
 <hr>
 
 ### Login page
 
-<p align="center"><img src="/CookBook/login.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/login.png" width="300px"></p>
 
 <hr>
 
 ### List of users receipies
 
-<p align="center"><img src="CookBook/userlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/userlist.png" width="300px"></p>
 
 <hr>
 
 ### Edit page
 
-<p align="center"><img src="CookBook/mainlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/mainlist.png" width="300px"></p>
 
 <hr>
 
 ### Create new page
 
-<p align="center"><img src="CookBook/create.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/create.png" width="300px"></p>
 
 <hr>
 
 ### Details view when logged in
 
-<p align="center"><img src="CookBook/mainlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/mainlist.png" width="300px"></p>
 With links to
 * Edit
 * List
