@@ -16,7 +16,7 @@
 
 ### Main page
 
-<p align="center"><img src="/CookBook/pic/fulllist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/fulllist.png" width="450px"></p>
 Full list of recipies from all users with
 * Details link
 
@@ -38,7 +38,7 @@ With links to
 
 ### List of users receipies
 
-<p align="center"><img src="/CookBook/pic/userlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/userlist.png" width="450px"></p>
 With CRUD options
 
 <hr>
