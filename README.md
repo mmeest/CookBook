@@ -16,7 +16,7 @@
 
 ### Main page
 
-<p align="center"><img src="/CookBook/mainlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/CookBook/mainlist.png" width="300px"></p>
 
 <hr>
 
