@@ -40,7 +40,7 @@
 
 ### Edit page
 
-<p align="center"><img src="/CookBook/pic/mainlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/edit.png" width="300px"></p>
 
 <hr>
 
@@ -52,7 +52,7 @@
 
 ### Details view when logged in
 
-<p align="center"><img src="/CookBook/pic/mainlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/userdetails.png" width="300px"></p>
 With links to
 * Edit
 * List
