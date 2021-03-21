@@ -16,13 +16,17 @@
 
 ### Main page
 
-<p align="center"><img src="/CookBook/pic/mainlist.png" width="300px"></p>
+<p align="center"><img src="/CookBook/pic/fulllist.png" width="300px"></p>
+Full list of recipies from all users with
+* Details link
 
 <hr>
 
 ### Details view not logged in
 
 <p align="center"><img src="/CookBook/pic/details.png" width="300px"></p>
+With links to
+* List
 
 <hr>
 
@@ -35,12 +39,16 @@
 ### List of users receipies
 
 <p align="center"><img src="/CookBook/pic/userlist.png" width="300px"></p>
+With CRUD options
 
 <hr>
 
 ### Edit page
 
 <p align="center"><img src="/CookBook/pic/edit.png" width="300px"></p>
+With
+* Save button
+* Back to list link
 
 <hr>
 
@@ -56,3 +64,5 @@
 With links to
 * Edit
 * List
+
+# HAPPY CODING !!! :)
