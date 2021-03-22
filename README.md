@@ -9,7 +9,7 @@
 
 ### Main page
 
-<p align="center"><img src="/CookBook/pic/fulllist.png" width="450px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/34022590/112001876-0728d000-8b28-11eb-9aa0-5c9a913dcdab.png" width="450px"></p>
 Full list of recipies from all users with
 * Details link
 
