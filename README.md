@@ -7,6 +7,14 @@
     <p>CookBook App in ASP.NET</p>
 </h3>
 
+### Main page
+
+<p align="center"><img src="/CookBook/pic/fulllist.png" width="450px"></p>
+Full list of recipies from all users with
+* Details link
+
+<hr>
+
 ### Features
 * To log in users
 * Each user can create/read/update/delete their receipies
@@ -33,14 +41,6 @@ Table 'User'
 |-|-|
 | UserName | nvarchar(50) |
 | Password | nvarchar(50) |
-
-<hr>
-
-### Main page
-
-<p align="center"><img src="/CookBook/pic/fulllist.png" width="450px"></p>
-Full list of recipies from all users with
-* Details link
 
 <hr>
 
