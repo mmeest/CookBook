@@ -23,7 +23,7 @@ Full list of recipies from all users with
 <hr>
 
 ### Database
-Database 'Kitchen'\
+Database 'Kitchen'
 
 Table 'Recipe':
 | Column Name | Data Type |
