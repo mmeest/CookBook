@@ -14,6 +14,28 @@
 
 <hr>
 
+### Database
+Database 'Kitchen'\
+
+Table 'Recipe':
+| Column Name | Data Type |
+|-|-|
+| Id(Primary Key) | int |
+| Name | varchar(50) |
+| Author | varchar(50) |
+| Indrigents | varchar(1000) |
+| Method | varchar(1000) |
+| Comment | varchar(300) |
+| Image | varbinary(MAX) |
+
+Table 'User'
+| Column Name | Data Type |
+|-|-|
+| UserName | nvarchar(50) |
+| Password | nvarchar(50) |
+
+<hr>
+
 ### Main page
 
 <p align="center"><img src="/CookBook/pic/fulllist.png" width="450px"></p>
